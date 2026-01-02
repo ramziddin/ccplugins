@@ -1,0 +1,12 @@
+# Temporary documentation files
+nestjs-documentation-structure.md
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
